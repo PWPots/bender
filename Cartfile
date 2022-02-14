@@ -2,4 +2,4 @@
 # Bender Cartfile
 
 github "Quick/Quick" ~> 2.2.0
-github "Quick/Nimble" ~> 8.0.5
+github "Quick/Nimble" ~> 9.2.1
